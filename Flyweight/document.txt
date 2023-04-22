@@ -1,0 +1,35 @@
+H - Arial Red 12
+e - Arial Red 12
+l - Arial Red 12
+l - Arial Red 12
+o - Arial Red 12
+W - Arial Red 12
+o - Arial Red 12
+r - Arial Red 12
+l - Arial Red 12
+d - Arial Red 12
+C - Arial Red 12
+S - Arial Red 12
+5 - Arial Red 12
+8 - Arial Red 12
+0 - Arial Red 12
+0 - Arial Red 12
+
+After:
+
+H - Calibri Blue 14
+e - Arial Red 12
+l - Verdana Black 16
+l - Arial Red 12
+o - Helvetica White 10
+W - Arial Red 12
+o - Impact Orange 24
+r - Arial Red 12
+l - Verdana Black 16
+d - Arial Red 12
+C - Impact Orange 24
+S - Arial Red 12
+5 - Arial Blue 12
+8 - Arial Red 12
+0 - Calibri Blue 14
+0 - Arial Red 12
